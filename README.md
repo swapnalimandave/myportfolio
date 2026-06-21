@@ -15,11 +15,7 @@ I am a Computer Science student with a strong interest in Software Development, 
 
 ## Tech Stack
 
-* React
-* TypeScript
-* Tailwind CSS
-* Vite
-* Framer Motion
+* React  * TypeScript  * Tailwind CSS  * Vite  * Framer Motion
 
 ---
 
@@ -35,6 +31,10 @@ I am a Computer Science student with a strong interest in Software Development, 
 ```bash
 npm install
 ```
+```bash
+npm run build
+```
+
 
 ### Run Development Server
 
