@@ -1,20 +1,53 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Swapnali Mandave Portfolio
 
-# Run and deploy your AI Studio app
+A modern portfolio website showcasing my projects, technical skills, certifications, achievements, and academic journey.
 
-This contains everything you need to run your app locally.
+**Live Website:**
+https://spectacular-semolina-c9ffbd.netlify.app
 
-View your app in AI Studio: https://ai.studio/apps/81eda2d1-8025-4403-be5c-f3d448b12be4
+---
 
-## Run Locally
+## About
 
-**Prerequisites:**  Node.js
+I am a Computer Science student with a strong interest in Software Development, Artificial Intelligence, and building impactful technology solutions. This portfolio serves as a collection of my work, experiences, and technical expertise.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Tech Stack
+
+* React
+* TypeScript
+* Tailwind CSS
+* Vite
+* Framer Motion
+
+---
+
+## Local Development
+
+### Prerequisites
+
+* Node.js
+* npm
+
+### Installation
+
+```bash
+npm install
+```
+
+### Run Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## Contact
+
+GitHub: https://github.com/your-github-username
+
+LinkedIn: https://linkedin.com/in/your-linkedin-profile
+
+Portfolio: https://spectacular-semolina-c9ffbd.netlify.app
